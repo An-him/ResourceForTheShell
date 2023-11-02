@@ -1,3 +1,7 @@
+Project span is 15 days
+Day 15: I looked for my paired Partner and did some minial planning
+Day 14: Thu 02 Nov 2023 10:24:06 EAT 
+    This was what I studied:
 Who designed and implemented the original Unix operating system?
     Ken Thompson and Dennis Ritchie. in 1969.
 Who wrote the first version of the UNIX shell?
