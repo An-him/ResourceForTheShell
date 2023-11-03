@@ -11,3 +11,9 @@ Who invented the B programming language (the direct predecessor to the C program
 Who is Ken Thompson?
     Ken Thompson is an American Jewish sceintist who's contribution to Computer Science later brings great Change and results in
     Worked at Bell Labs with the Greatest men of His time to build things such as C, B, Unix among others.
+    Did some studying on How Binary files and executables are processed and it's quite an interst
+
+    If a file lives in system files such as bin- for binary files
+etc - everything to configure or [/home /bin /boot /lib /root]
+among which the files for the shell exist RUN THIS COMMAND 'cat /etc/shells' where the bash shell resides
+Because the binary file or executable is in system dir to execute the program just requires it's name even when the program is a script without requiring the arbitral './'
