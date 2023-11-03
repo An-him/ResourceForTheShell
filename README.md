@@ -17,3 +17,7 @@ Who is Ken Thompson?
 etc - everything to configure or [/home /bin /boot /lib /root]
 among which the files for the shell exist RUN THIS COMMAND 'cat /etc/shells' where the bash shell resides
 Because the binary file or executable is in system dir to execute the program just requires it's name even when the program is a script without requiring the arbitral './'
+
+All commands are programs and when written in the shell as input, The shell expands them by searching the reside of the programs using 
+$PATH
+ls, l, mkdir, cat, tee, sed e.t.c
