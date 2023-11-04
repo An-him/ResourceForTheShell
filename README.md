@@ -21,3 +21,5 @@ Because the binary file or executable is in system dir to execute the program ju
 All commands are programs and when written in the shell as input, The shell expands them by searching the reside of the programs using 
 $PATH
 ls, l, mkdir, cat, tee, sed e.t.c
+
+Linus is here 
