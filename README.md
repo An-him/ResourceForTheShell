@@ -24,4 +24,5 @@ ls, l, mkdir, cat, tee, sed e.t.c
 
 Linus is here
 Day 12: We delved deeper into learning with Mr Linus remaekably humble Spirit and surely his going far, Encountered a hurdle when solving the Command Line Argument program but we surpassed (Obviously)
+We were able to clone, pull and push on our shared repo, Exciting week ahead of Us
 Stima at His end ilipotea but tuko pamoja
